@@ -1,7 +1,7 @@
 num = [1,2,3]
 
 num.each do |square|
-    puts "Hello #{num}"
+    puts "Hello #{square}"
 end
 
 #def square_array(num)
