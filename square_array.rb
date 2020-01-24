@@ -1,4 +1,4 @@
-array = [1,2,3]
-def square_array(array)
+num = [1,2,3]
+def square_array(num)
   square_array.each
 end
